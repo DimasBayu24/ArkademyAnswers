@@ -1,5 +1,5 @@
 # ArkademyAnswers
-Jawaban Arkademy batch 14 (3)
+Jawaban Arkademy batch 14 (5)
 1. Kegunaan JSON pada REST API adalah sebagai format data untuk bertukar, mengambil data antar website, platform dll. 
 
 jawaban.
@@ -8,3 +8,7 @@ jawaban.
 3. tamu bisa diganti jumlahnya, saat ini di code jawaban nomor 3 menggunakan tamu sebanyak 6 orang
 4. var a silakan diganti untuk mencoba kebenaran jawaban saya
 5. pemanggilan hargasahamperhari bisa diganti nilai pemanggilan functionnya sesuai yang anda mau.
+6. NOMOR 6 sangat disayangkan, saya tidak sempat melakukan perintah yang disuruh pada soal  nomor 6, Saya membutuhkan waktu lebih untuk 
+   membuat project yang diberikan oleh arkademy. Dimana dalam waktu yang tersisa sedikit saya masih mempelajari bagaimana cara dan pola 
+   dalam pembuatan database, mockup website dan website dengan fitur crud. 
+  
