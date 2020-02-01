@@ -1,5 +1,5 @@
 # ArkademyAnswers
-Jawaban Arkademy batch 14 (5)
+Jawaban Arkademy batch 15 kloter 1
 1. Kegunaan JSON pada REST API adalah sebagai format data yang mempermudah untuk bertukar, mengambil data antar website, platform dll. 
 
 jawaban.
