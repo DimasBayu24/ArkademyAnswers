@@ -12,4 +12,4 @@ jawaban.
    tapi silahkan mengganti rows yang tersedia dengan angka yang anda mau.
 
 
-6. 
+6. Jawaban 6C belum selesai
